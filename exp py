@@ -1,0 +1,14 @@
+#საკლასო დავალება
+
+user_name = "Zuka"     
+user-name = "Ana" 
+10 = 10                   
+subject = "Math"             
+print("userAge") 
+age = 25
+age = age + "years"          
+Name = "Zuka"
+print(name)                  
+full_name = "Zuka K"         
+fav = "Function"           
+user_name2 = 20
